@@ -1,0 +1,129 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Just lil buddy fireworks"
+        }
+    },{
+        "tiny_sparklers": {
+            "id": 1,
+            "type": 0,
+            "name": "Tiny Sparklers",
+            "description": "awwww isn't that a cute lil sparkler"
+        }
+    },{
+        "useless_sparklers": {
+            "id": 2,
+            "type": 0,
+            "name": "Useless Sparklers",
+            "description": "seriously, these don't even light.  "
+        }
+    },{
+        "small_fireworks": {
+            "id": 3,
+            "type": 1,
+            "name": "Small fireworks",
+            "description": "it goes up.  it goes poof.  good job"
+        }
+    },{
+        "medium_fireworks": {
+            "id": 4,
+            "type": 1,
+            "name": "Medium fireworks",
+            "description": "You want to buy these and make go boom"
+        }
+    },{
+        "big_ol_fireworks": {
+            "id": 5,
+            "type": 1,
+            "name": "big ol fireworks",
+            "description": "You could probably halt a charging rhino with this one"
+        }
+    },{
+        "atom_bomb": {
+            "id": 6,
+            "type": 2,
+            "name": "atom bomb",
+            "description": "This will blow up your home town, no problem"
+        }
+    },{
+        "hydrogen_bomb": {
+            "id": 7,
+            "type": 2,
+            "name": "hydrogen bomb",
+            "description": "Will level your county in two seconds flat"
+        }
+    },{
+        "uranium_fusion_bomb": {
+            "id": 8,
+            "type": 2,
+            "name": "uranium fusion bomb",
+            "description": "If you want to disappear a whole continent, get this one"
+        }
+    },{
+        "lil_dumptruck": {
+            "id": 9,
+            "type": 3,
+            "name": "lil dumptruck",
+            "description": "good for moving one rock at a time"
+        }
+    },{
+        "lil_backhoe": {
+            "id": 10,
+            "type": 3,
+            "name": "lil backhoe",
+            "description": "can move one grain of sand per day."
+        }
+    },{
+        "lil_plow": {
+            "id": 11,
+            "type": 3,
+            "name": "lil plow",
+            "description": "moves a matchbox worth of dirt per millisecond"
+        }
+    },{
+        "small_bobcat": {
+            "id": 12,
+            "type": 4,
+            "name": "small bobcat",
+            "description": "I used this to level aunt betty's trailer"
+        }
+    },{
+        "medium_bobcat": {
+            "id": 13,
+            "type": 4,
+            "name": "medium bobcat",
+            "description": "You could definitely tear down your elementary school with this one"
+        }
+    },{
+        "pro_bobcat": {
+            "id": 14,
+            "type": 4,
+            "name": "pro bobcat",
+            "description": "Burger King and McD's could get leveled in one night"
+        }
+    },{
+        "average_ball": {
+            "id": 15,
+            "type": 5,
+            "name": "average ball",
+            "description": "kind of the size of the one in that miley cyrus video"
+        }
+    },{
+        "big_ball": {
+            "id": 16,
+            "type": 5,
+            "name": "big ball",
+            "description": "good for knocking down skyscrapers"
+        }
+    },{
+        "giant_ball": {
+            "id": 17,
+            "type": 5,
+            "name": "giant ball",
+            "description": "this is useless because it is too huge.  makes a great gift"
+        }
+    }]
+}

@@ -1,0 +1,1 @@
+{"/Users/vaughnwalters/workspace/exercises/mjd/acme-explosives/gulpfile.js":{"sha1":"0449df488e4644093d72a46f2b25c177347e2754","tasks":{"default":{"name":"default","dependencies":"lint watch"},"watch":{"name":"watch","dependencies":""},"lint":{"name":"lint","dependencies":""}}}}

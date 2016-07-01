@@ -1,0 +1,41 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "professional",
+            "description": "You could probably blow off your hand with these fireworks"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "nuclear",
+            "description": "You could nuke a whole city with these fireworks. Super dangerous."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "tonka",
+            "description": "These are tiny tonka demo machines.  Could probably demolish a lego tower."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "bobcat",
+            "description": "Here are your average bobcats.  They can wreck some stuff but can't demo your house."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "wreckingball",
+            "description": "Wrecking balls that will demolish everything and everyone around you."
+        }
+    ]
+}
+
